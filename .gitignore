@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# User data (generated at runtime)
+flashcard_data.json
